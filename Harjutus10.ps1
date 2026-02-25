@@ -1,6 +1,6 @@
 ﻿<#
 .SYNOPSIS
-    Practice 10: Monitorib Notepad protsesse kasutades do-until tsüklit.
+    Practice 10: Monitoorib Notepad protsesse kasutades do-until tsüklit.
 #>
 
 $counter = 0
