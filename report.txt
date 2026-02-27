@@ -1,0 +1,29 @@
+﻿--- SÜSTEEMI RAPORT ---
+Kuupäev: 02/27/2026 11:03:34
+Tere, Karol! (1)
+Arvuti nimi: DESKTOP-M9922LT
+Kasutaja: admin
+PowerShell versioon: 5.1.26100.7705
+
+3 Töötavat protsessi:
+
+Handles  NPM(K)    PM(K)      WS(K)     CPU(s)     Id  SI ProcessName                                                                                
+-------  ------    -----      -----     ------     --  -- -----------                                                                                
+    149      10     2968      12276              4628   0 AggregatorHost                                                                             
+    294      14     7004      16064       1.13   4524   0 audiodg                                                                                    
+    254      14    14052      32224       0.34   6736   2 Clipchamp.Widgets                                                                          
+
+
+
+
+3 Teenust:
+
+Name          Status
+----          ------
+AarSvc_720c4 Stopped
+ADPSvc       Stopped
+ALG          Stopped
+
+
+
+PowerShelli versioon on sobiv.
